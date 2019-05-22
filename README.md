@@ -1,2 +1,2 @@
 # rookie
-new_arrival
+first visit to GitHub :)
